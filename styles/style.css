@@ -1,16 +1,16 @@
 html {
   font-size: 10px;
   font-family: 'Source Serif Pro', serif;
-  background-color: #61988E;
+  background-color: #E5E9EC;
 }
 
 body {
   width: 80%;
   margin: 0 auto;
-  background-color: #D0CFEC;
+  background-color: #EAFDF8;
   padding: 0 50px 50px 50px;
   border: 5px solid;
-  border-image-source: linear-gradient(to bottom, #1E352F, #61988E);
+  border-image-source: linear-gradient(to top, #B6CBE2, #F9C1B4);
   border-image-slice: 1;
 } 
 
@@ -50,8 +50,8 @@ ul {
 }
 
 .topnav a:hover {
-  background-color: #BAB2B5;
-  color: #EBEFBF;
+  background-color: #B6CBE2;
+  /* color: #EBEFBF; */
 }
 
 /*IMAGE AND TEXT LAYOUT*/
