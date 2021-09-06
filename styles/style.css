@@ -69,13 +69,13 @@ ul {
 }
 
 /*IMAGE AND TEXT LAYOUT*/
-.row {
+.thumb_row {
   display: flex;
   justify-content: center;
   
 }
 
-.column {
+.thumb_column {
   padding: 2%;
 }
 
